@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.box1 , .box2, .box3{
+   text-align: center;
+}
+.box1 p, .box2 p, .box3 p{
+   
+   padding-top: 10px;
+}
+.article {
+    border-bottom: 1px solid #dbdbdb;
+}
+.article2{
+    padding-top: 25px;
+    /*border: 1px solid black;*/
+}
